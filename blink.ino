@@ -1,6 +1,6 @@
-#define BLYNK_TEMPLATE_ID "TMPL6TLhbjqXy"
+#define BLYNK_TEMPLATE_ID "TmPL2TLJHbJqxy" //sample
 #define BLYNK_TEMPLATE_NAME "Gas Leakage"
-#define BLYNK_AUTH_TOKEN "6uD8oU5kYVyvq4IoZDgCm75tR-NpEd3-"
+#define BLYNK_AUTH_TOKEN "1UJF4oU5kYVyvq3IoZDgCm45tR-NpEd3-"  // sample
 
 #define BLYNK_PRINT Serial
 
@@ -8,8 +8,8 @@
 #include <BlynkSimpleEsp8266.h>
 
 char auth[] = BLYNK_AUTH_TOKEN;
-char ssid[] = "DESKTOP-8BL3MIG 5639";       // Your WiFi name
-char pass[] = "786786786";          // Your WiFi password
+char ssid[] = "";       // Your WiFi name
+char pass[] = "";          // Your WiFi password
 
 int smokeA0 = A0;                  // Analog pin for MQ-135
 int sensorThres = 300;            // Adjust this threshold based on real readings
