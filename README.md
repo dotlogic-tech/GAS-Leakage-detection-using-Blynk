@@ -4,7 +4,7 @@
 //Using Arduino IDE for uploading the code 
 //Blynk (community) library and NODE-MCU library used for Esp-8266
 
-#define BLYNK_TEMPLATE_ID "TlPL4TLLbjqxy" // sample 
+#define BLYNK_TEMPLATE_ID "TlPL4TLLbjqxy" // sample  used
 #define BLYNK_TEMPLATE_NAME "Gas Leakage"
 #define BLYNK_AUTH_TOKEN "1UD4oU5kYVyvq2IozvgCm75tRNpEd3" // sample 
 
